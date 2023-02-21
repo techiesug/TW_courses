@@ -1,7 +1,7 @@
 # TW_courses
 Improving Your Technical Writing Skills
 
-List and links to courses:
+Courses Links:
 # Writing with Impact https://www.linkedin.com/learning/writing-with-impact
 # Editing and Proofreading made simple https://www.linkedin.com/learning/editing-and-proofreading-made-simple
 # Writing in Plain English https://www.linkedin.com/learning/writing-in-plain-english/welcome?autoplay=true
