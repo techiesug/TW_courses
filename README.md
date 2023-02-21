@@ -1,7 +1,7 @@
 # TW_courses
 Improving Your Technical Writing Skills
 
-My takeaways from this course:
+My takeaways from these courses:
 # Use short sentences
 # Avoid industry specific jargons
 # Avoid unclear words
